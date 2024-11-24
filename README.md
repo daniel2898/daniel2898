@@ -1,8 +1,13 @@
 Hi, I’m @daniel2898
 I am interested in studying English, especially I want to learn English words correctly and properly (I want to master English words perfectly at the high school level in Korea).
 I am currently studying English words.
-When I give you an English word, you first explain the word in English and then translate it into Korean.
-Next, give me 10 example sentences with the most frequently used meanings and translate them into Korean (each example sentence should be at least 15 words long).
+Parts of speech for English words I give you 
+For the first word, explain its meaning in English and interpret it in Korean.
+Then, show about 10 example sentences in order of the most used meaning and English structure.
+
+For each example sentence, add an interpretation in Korean.
+The length of the example sentence should be at least 15 words. 
+The level should be at a high school English level.
 Prepare an example sentence that is topical, instructive, and informative.
 
 <!---
